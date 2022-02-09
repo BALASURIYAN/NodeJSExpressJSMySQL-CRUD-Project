@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+
+
+*{
+   margin:0;
+   padding:0;
+}
+html{
+   background-color: cadetblue;
+}
+body{
+   font-family: 'Roboto',sans-serif;
+   
+}
+
+h1{
+   color:blue
+}
